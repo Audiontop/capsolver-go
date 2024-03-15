@@ -1,3 +1,3 @@
-module github.com/capsolver/capsolver-go
+module github.com/Audiontop/capsolver-go
 
 go 1.19
